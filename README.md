@@ -26,7 +26,7 @@ $ heroku open
 ```
 or
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) [![Greenkeeper badge](https://badges.greenkeeper.io/yurikrupnik/heroku-test.svg)](https://greenkeeper.io/)
 
 ## Documentation
 
